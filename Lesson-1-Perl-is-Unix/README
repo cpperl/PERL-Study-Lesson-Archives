@@ -1,0 +1,7 @@
+Bash and Perl scripts can be compared side by side to show how
+similar they are and that Perl at at its most basic level is just
+another shell scripting language.
+
+They are initially commented out so one may uncomment related
+sections to more clearly demonstrate that they produce identical
+output.
